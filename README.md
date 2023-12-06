@@ -1,6 +1,4 @@
-# Predicting Energy Consumption: Regression Models
-### Project Information
-Title: Predicting Energy Consumption: A Comparative Analysis of Regression Models
+# Predicting Energy Consumption: A Comparative Analysis of Regression Models
 **Authors: Raj Kunamaneni, Anant Vishwakarma, Bobby Missirian**
 
 ### Introduction
@@ -13,6 +11,7 @@ data/: Stores the Kaggle dataset with gas prices, electricity prices, forecast w
 results/: Holds the results of the model evaluations, including MAE comparisons.
 docs/: Documentation files, including this README and additional presentation slides.
 ```
+
 ### Usage
 Best to run on the Kaggle Competition website. The following for directions on a local system. 
 
@@ -22,10 +21,10 @@ Clone the Repository:
 git clone https://github.com/rajkunamaneni/Energy-Behavior-of-Prosumers.git
 cd code/
 ```
-
 Run Regression Models: Navigate to the code/ directory and run the scripts for different regression models.
 Explore Results: Check the results/ directory for performance metrics and visualizations.
 Review Paper: Refer to the docs/ directory for the Paper, including model comparisons and analysis.
+
 ### Results and Discussion
 The performance comparison of various regression models, as outlined in the results, is available in the results/ directory. The chosen metrics include Mean Absolute Error (MAE) for accurate model comparison.
 
