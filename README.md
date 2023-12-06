@@ -28,5 +28,5 @@ Review Paper: Refer to the docs/ directory for the Paper, including model compar
 ### Results and Discussion
 The performance comparison of various regression models, as outlined in the results, is available in the results/ directory. The chosen metrics include Mean Absolute Error (MAE) for accurate model comparison.
 
-Future Directions
+### Future Directions
 Explore the docs/ directory for key findings and future directions based on the analysis of different regression models. Consider refining the neural network architecture, exploring ensemble methods, and investigating additional variables for inclusion in the dataset.
