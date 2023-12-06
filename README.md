@@ -1,6 +1,6 @@
 # Predicting Energy Consumption: Regression Models
 ### Introduction
-This GitHub repository contains the code and documentation for a project titled "Predicting Energy Consumption: A Comparative Analysis of Regression Models." Predictive analytics, especially in energy consumption forecasting, is critical in various industries. This project focuses on evaluating the performance of different regression models using the Kaggle dataset from the "Predict Energy Behavior of Prosumers" competition.
+This GitHub repository contains the code and documentation for the Kaggle competition "Predicting Energy Consumption: A Comparative Analysis of Regression Models." Predictive analytics, especially in energy consumption forecasting, is critical in various industries. This project focuses on evaluating the performance of different regression models using the Kaggle dataset from the "Predict Energy Behavior of Prosumers" competition.
 
 ### Project Information
 Title: Predicting Energy Consumption: A Comparative Analysis of Regression Models
