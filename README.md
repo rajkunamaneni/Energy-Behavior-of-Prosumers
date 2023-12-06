@@ -17,22 +17,17 @@ Best to run on the Kaggle Competition website. The following for directions on a
 
 Clone the Repository:
 
-bash
-Copy code
-git clone 
-cd 
+git clone https://github.com/rajkunamaneni/Energy-Behavior-of-Prosumers.git
+cd code
 
 Run Regression Models:
-
  - Navigate to the code/ directory and run the scripts for different regression models.
 Explore Results:
-
  - Check the results/ directory for performance metrics and visualizations.
-Review Documentation:
-
- - Refer to the docs/ directory for additional presentation slides, including model comparisons and analysis.
+Review Paper:
+ - Refer to the docs/ directory for Paper, including model comparisons and analysis.
 ### Results and Discussion
 The performance comparison of various regression models, as outlined in the results, is available in the results/ directory. The chosen metrics include Mean Absolute Error (MAE) for accurate model comparison.
 
-Conclusion and Future Directions
+Future Directions
 Explore the docs/ directory for key findings and future directions based on the analysis of different regression models. Consider refining the neural network architecture, exploring ensemble methods, and investigating additional variables for inclusion in the dataset.
