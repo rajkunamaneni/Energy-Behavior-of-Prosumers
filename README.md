@@ -7,9 +7,10 @@ This GitHub repository contains the code and documentation for the Kaggle compet
 ### Repository Structure
 ```
 code/: Contains the implementation of various regression models, including CatBoost, ExtraTrees, HistGradientBoosting, KNeighbors, and the proposed Regressive Neural Network.
-data/: Stores the Kaggle dataset with gas prices, electricity prices, forecast weather, and other relevant metrics.
 results/: Holds the results of the model evaluations, including MAE comparisons.
 ```
+### Dataset
+Stores the Kaggle dataset with gas prices, electricity prices, forecast weather, and other relevant metrics. View on [Kaggle](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/data). 
 
 ### Usage
 Best to run on the Kaggle Competition website. The following instructions are for running locally. 
