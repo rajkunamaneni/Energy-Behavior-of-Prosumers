@@ -22,12 +22,9 @@ git clone https://github.com/rajkunamaneni/Energy-Behavior-of-Prosumers.git
 cd code/
 ```
 
-Run Regression Models:
- - Navigate to the code/ directory and run the scripts for different regression models.
-Explore Results:
- - Check the results/ directory for performance metrics and visualizations.
-Review Paper:
- - Refer to the docs/ directory for Paper, including model comparisons and analysis.
+Run Regression Models: Navigate to the code/ directory and run the scripts for different regression models.
+Explore Results: Check the results/ directory for performance metrics and visualizations.
+Review Paper: Refer to the docs/ directory for the Paper, including model comparisons and analysis.
 ### Results and Discussion
 The performance comparison of various regression models, as outlined in the results, is available in the results/ directory. The chosen metrics include Mean Absolute Error (MAE) for accurate model comparison.
 
