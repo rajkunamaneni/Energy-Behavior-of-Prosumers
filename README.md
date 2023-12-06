@@ -7,11 +7,12 @@ Title: Predicting Energy Consumption: A Comparative Analysis of Regression Model
 Authors: Raj Kunamaneni, Anant Vishwakarma, Bobby Missirian
 
 ### Repository Structure
+```
 code/: Contains the implementation of various regression models, including CatBoost, ExtraTrees, HistGradientBoosting, KNeighbors, and the proposed Regressive Neural Network.
 data/: Stores the Kaggle dataset with gas prices, electricity prices, forecast weather, and other relevant metrics.
 results/: Holds the results of the model evaluations, including MAE comparisons.
 docs/: Documentation files, including this README and additional presentation slides.
-
+```
 ### Usage
 Best to run on the Kaggle Competition website. The following for directions on a local system. 
 
