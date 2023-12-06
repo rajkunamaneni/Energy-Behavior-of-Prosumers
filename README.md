@@ -17,8 +17,8 @@ Best to run on the Kaggle Competition website. The following for directions on a
 
 Clone the Repository:
 
-git clone https://github.com/rajkunamaneni/Energy-Behavior-of-Prosumers.git
-cd code
+```git clone https://github.com/rajkunamaneni/Energy-Behavior-of-Prosumers.git```
+``cd code/```
 
 Run Regression Models:
  - Navigate to the code/ directory and run the scripts for different regression models.
